@@ -22,7 +22,7 @@
   
   --font-padrao: arial, verdana, helvetica, sans-serif;
   --font-destaque: 'Bebas Neue', cursive;
-  --font-android: 'idroid';
+  --font-android: 'idroid', cursive;
 }
 
 
@@ -133,7 +133,7 @@ div.video > iframe {
 
 
 
-main h1 {
+article > h1 {
   color: var(--cor5);
   font-family: var(--font-android);
   font-weight: normal;
@@ -141,7 +141,7 @@ main h1 {
   
 }
 
-main h2 {
+article > h2 {
   font-family: var(--font-android);
   font-size: 1.3em;
   font-weight: normal;
@@ -150,7 +150,7 @@ main h2 {
   text-indent: 5px;
 }
 
-main p {
+article > p {
   text-align: justify;
   margin: 15px 0px;
   text-indent: 30px;
@@ -159,7 +159,7 @@ main p {
 
 }
 
-main a {
+articel > a {
   text-decoration: none;
   color: var(--cor5);
   background-color: var(--cor1);
