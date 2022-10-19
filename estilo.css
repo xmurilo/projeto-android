@@ -68,7 +68,6 @@
 .navgation {
   background-color: var(--cor4);
   padding: 15px;
-  
 }
 
 .lista-nav {
@@ -77,9 +76,9 @@
 }
 
 .lista-nav li {
-  padding: 10px 5px;
   border-radius: 8px;
-
+  margin: 0 5px;
+  padding: 5px;
 }
 
 .lista-nav li:hover {
