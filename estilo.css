@@ -71,23 +71,23 @@
   
 }
 
-.list-nav {
+.lista-nav {
   display: flex;
   justify-content: center;
 }
 
-.list-nav li {
+.lista-nav li {
   padding: 10px 10px;
   border-radius: 10px;
 
 }
 
-.list-nav li:hover {
+.lista-nav li:hover {
   background-color: rgba(128, 128, 128, 0.399);
   transition: 0.7s;
 } 
 
-.list-nav a {
+.lista-nav a {
   color: #fff;
   text-decoration: none;
 }
@@ -102,6 +102,9 @@
   margin: auto;
   background-color: #fff;
   padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 0px 0px 15px 15px ;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.434);
 }
 
 .principal h1, h2 {
@@ -153,4 +156,69 @@ iframe {
   height: 95%;
   width: 95%;
   border-radius: 25px;
+}
+
+.complemento {
+  margin: 16px 0;
+  border-radius: 20px;
+  padding: 14px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.268);
+
+  background-color: var(--cor1);
+}
+
+.complemento h3 {
+  background-color: var(--cor4);
+  padding: 16px;
+  margin: -15px;
+  border-radius: 20px 20px 0 0 ;
+  color: #fff;
+
+}
+
+.complemento .lista-complemento {
+  list-style-type: '\2714\00A0\00A0';
+  list-style-position: inside;
+  columns: 2;
+}
+
+.complemento p {
+  line-height: 1.4em;
+  margin: -10px 0;
+}
+
+footer {
+  background-color: var(--cor5);
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+}
+
+footer p {
+  margin: 10px 0;
+
+}
+
+footer a {
+  color: #fff;
+  font-weight: bolder;
+  text-decoration: none;
+
+  transition: 0.5s;
+}
+
+
+footer .redes-sociais {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.redes-sociais li {
+  margin: 0 5px;
+  transition: 0.5s;
+}
+
+.redes-sociais li:hover {
+  transform: scale(1.12);
 }
