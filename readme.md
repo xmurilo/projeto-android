@@ -13,11 +13,8 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
 
 ## <img src="./imgs-readme/kunai.png" height="50px">  Tecnologias usadas
 
-<div class="tecnologias">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+ 
+
 
  <h2 class="aprendi">O que eu aprendi </h2>
 
@@ -51,41 +48,7 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
 
 ## Veja uma demonstração do Projeto 
 
-<p>Se quiser acessar basta clicar no gif</p>
+<p>Se quiser acessar basta clicar no GIF</p>
 
 [<img src="./imgs-readme/projeto-android-gif.gif" href="">
 ](https://xmurilo.github.io/projeto-android/)
-
-
-
-
-
------------
-<style>
-
-  h1 {
-    text-align:center;
-  }
-
-
-  p {
-    line-height:1.7em;
-  }
-
-
-  .tecnologias {
-    display:flex;
-    margin-top:25px;
-  }
-
-  .tecnologias img {
-    height:50px;
-  }
-
-  .aprendi {
-    margin-top: 30px;
-  }
-
- 
-  </style>
-
