@@ -51,9 +51,9 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
 - Transition
 - Pseudo Classes
 
-## Veja uma demonstração do Projeto 
+##  Veja uma demonstração do Projeto ☑️ 
 
-<p>Se quiser acessar basta clicar no GIF</p>
+<p>Para acessar basta clicar no GIF</p>
 
 [<img src="./imgs-readme/projeto-android-gif.gif" href="">
 ](https://xmurilo.github.io/projeto-android/)
