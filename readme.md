@@ -16,7 +16,7 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
  
 
 
- <h2 class="aprendi">O que eu aprendi </h2>
+ <h2 class="aprendi">O que aprendi </h2>
 
 ### Em HTML 🏹
 - Heading Tags
