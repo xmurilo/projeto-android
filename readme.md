@@ -1,6 +1,6 @@
   # Projeto Android 🤖 
 
- > ## Sobre 
+  ## Sobre o proejto
  
 #
 
