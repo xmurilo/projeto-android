@@ -22,34 +22,8 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
 
 
  <h2 class="aprendi">O que aprendi </h2>
-
-### Em HTML 🏹
-- Heading Tags
-- Tags Semânticas
-- Tag Picture
-- Tag Img
-- Tags de listas
-- Tag de Link
-- Atributos
-- Tag Iframe
-
-### Em CSS 🛡️
-- Cores | Background Color
-- Positions | Displays
-- Max e Min | Height | Width
-- Padding | Margin | Border Radius | 
-- Box Shadow
-
-- Font Weight | Family | Size | 
-- Text Align
-- Line Height
-- Text Decoration
-
-- Seletores
-- Root
-- List Style
-- Transition
-- Pseudo Classes
+ 
+Com esse projeto coloquei em prática o que foi aprendido ao longo do curso, como deixar as imagens responsivas, criar  um menu, deixar o conteúdo organizado com tags semânticas etc, me disse muita coisa, que podemos mudar o código e não deixar igual.
 
 ##  Veja uma demonstração do Projeto ☑️ 
 
