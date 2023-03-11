@@ -23,7 +23,7 @@ Projeto criado no <strong>CursoEmVideo</strong> com intuito de aplicar o que foi
 
  <h2 class="aprendi">O que aprendi </h2>
  
-Com esse projeto coloquei em prática o que foi aprendido ao longo do curso, como deixar as imagens responsivas, criar  um menu, deixar o conteúdo organizado com tags semânticas etc, me disse muita coisa, que podemos mudar o código e não deixar igual.
+Com esse projeto coloquei em prática o que foi aprendido ao longo do curso, como deixar as imagens responsivas, criar  um menu, deixar o conteúdo organizado com tags semânticas etc, desenvolvi diversars skills, aprendi que podemos mudar o código e não deixar igual.
 
 ##  Veja uma demonstração do Projeto ☑️ 
 
